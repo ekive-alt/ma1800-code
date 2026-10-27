@@ -1,0 +1,22 @@
+/* Add the hidden and hover styles */
+body {
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 2rem;
+}
+#content {
+
+width: 600px;
+margin: 0 auto;
+
+}
+
+.hide {
+
+color: white;
+border-bottom: 1px dotted blue;
+}
+.hide:hover {
+    colomns: red;
+    cursor: pointer;
+}

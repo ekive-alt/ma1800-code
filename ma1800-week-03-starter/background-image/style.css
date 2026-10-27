@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    height: 100;
+    margin: 0;
+    padding: 0;
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5e/Domestic_Cat_Face_Shot.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled);
+background-repeat: repeat;
+
+}
+
+div {
+ width: 100%;
+    height: 100;
+    margin: 0;
+    padding: 0;
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5e/Domestic_Cat_Face_Shot.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled);
+background-repeat: repeat;
+opacity: 0.5;
+
+}
+

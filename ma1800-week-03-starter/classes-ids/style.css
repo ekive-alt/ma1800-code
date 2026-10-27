@@ -1,0 +1,29 @@
+/* Add styles for the class and ID selectors */
+body {
+background: #ffff;
+color:blue; 
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+P{
+    margin: 50px;
+padding: 25px;
+font-size: 16pt;
+border: 2px solid #0000;
+
+}
+
+    div {
+ border: 5px dashed #0000ff;
+ color: #ffff;
+    
+    }
+
+
+.highlight {
+    background: #ffff0f;
+
+
+div 
+}
