@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25;
+}
+
+@keyframes spin {
+    100% {transform: rotateY(360deg) rotate(360deg); }
+}
+
+img {
+    position: fixed;
+    top: 50px;
+    z-index: 0;
+}
+
+.letter {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    color:white;
+    margin: 10px;
+    z-index: 10;
+
+    animation: spin 2s normal infinite;
+}

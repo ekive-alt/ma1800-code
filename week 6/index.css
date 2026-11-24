@@ -1,0 +1,27 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+h1{
+    margin: 25px;
+    text-align: center;
+}
+#content {
+    width: 80%;
+    min-width: 500px;
+    margin: 50px;
+}
+
+#choice-container {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.option {
+    flex: 1;
+    max-width: 400px;
+    padding: 10px;
+}
+
